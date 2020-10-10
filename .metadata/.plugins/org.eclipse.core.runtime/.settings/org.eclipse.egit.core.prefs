@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=D\:\\SourceCode\\JHipsterProject\\CodeGithub\\keycloak-rest-admin-api\\.git;D\:\\SourceCode\\Project\\Spring-Keycloak-with-REST-API\\.git;D\:\\SourceCode\\Oauth2Project\\Albums-Resource-Server\\.git;D\:\\SourceCode\\Oauth2Project\\Photos-Resource-Server\\.git;
+GitRepositoriesView.GitDirectories.relative=D\:\\SourceCode\\JHipsterProject\\CodeGithub\\keycloak-rest-admin-api\\.git;D\:\\SourceCode\\Project\\Spring-Keycloak-with-REST-API\\.git;Albums-Resource-Server\\.git;Photos-Resource-Server\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
